@@ -1,0 +1,25 @@
+.pic {
+    width:500px;
+    height:500px;
+    position:absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.pic:nth-child(1) {
+    left: 50px;
+}
+  
+
+.box {
+    background-color: gray;
+    width:100vw;
+    height:100vh;
+}
+
+body {
+    margin: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+  
